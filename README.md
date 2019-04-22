@@ -1,6 +1,6 @@
 # Lenovo Auto Keyboard Backlight
 
-This simple program simply lights your lenovo keyboard backlight on, whenever you press a button! Nice and simple, and you can change the delay between the stepdowns as well. This uses a global keyboard hook, that i got from [this link](https://gist.github.com/Larry57/5365740).
+This simple program simply lights your lenovo keyboard backlight on, whenever you press a button! Nice and simple, and you can change the delay between the stepdowns as well. This uses a global keyboard hook, that i got from [this link](https://gist.github.com/Larry57/5365740). This program also uses a .dll from lenovo themselfs, its included with the program, however you can find it yourself at: C:\ProgramData\Lenovo\ImController\Plugins\ThinkKeyboardPlugin\x86\Keyboard_Core.dll
 
 Hope you enjoy it!
 
