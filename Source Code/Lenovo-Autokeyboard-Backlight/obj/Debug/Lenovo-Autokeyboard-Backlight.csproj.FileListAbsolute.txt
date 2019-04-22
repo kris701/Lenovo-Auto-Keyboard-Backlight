@@ -1,0 +1,32 @@
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\Lenovo-Autokeyboard-Backlight\bin\Debug\Lenovo-Autokeyboard-Backlight.exe.config
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\Lenovo-Autokeyboard-Backlight\bin\Debug\Lenovo-Autokeyboard-Backlight.exe
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\Lenovo-Autokeyboard-Backlight\bin\Debug\Lenovo-Autokeyboard-Backlight.pdb
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\Lenovo-Autokeyboard-Backlight\obj\Debug\Lenovo-Autokeyboard-Backlight.csprojAssemblyReference.cache
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\Lenovo-Autokeyboard-Backlight\obj\Debug\MainWindow.g.cs
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\Lenovo-Autokeyboard-Backlight\obj\Debug\App.g.cs
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\Lenovo-Autokeyboard-Backlight\obj\Debug\Lenovo-Autokeyboard-Backlight_MarkupCompile.cache
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\Lenovo-Autokeyboard-Backlight\obj\Debug\Lenovo-Autokeyboard-Backlight_MarkupCompile.lref
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\Lenovo-Autokeyboard-Backlight\obj\Debug\MainWindow.baml
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\Lenovo-Autokeyboard-Backlight\obj\Debug\Lenovo-Autokeyboard-Backlight.g.resources
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\Lenovo-Autokeyboard-Backlight\obj\Debug\Lenovo_Autokeyboard_Backlight.Properties.Resources.resources
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\Lenovo-Autokeyboard-Backlight\obj\Debug\Lenovo-Autokeyboard-Backlight.csproj.GenerateResource.cache
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\Lenovo-Autokeyboard-Backlight\obj\Debug\Lenovo-Autokeyboard-Backlight.csproj.CoreCompileInputs.cache
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\Lenovo-Autokeyboard-Backlight\obj\Debug\Lenovo-Autokeyboard-Backlight.exe
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\Lenovo-Autokeyboard-Backlight\obj\Debug\Lenovo-Autokeyboard-Backlight.pdb
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\Lenovo-Autokeyboard-Backlight\obj\Debug\Lenovo-Autokeyboard-Backlight.csproj.CopyComplete
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\GitHub\Lenovo-Auto-Keyboard-Backlight\Source Code\Lenovo-Autokeyboard-Backlight\bin\Debug\Lenovo-Autokeyboard-Backlight.exe.config
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\GitHub\Lenovo-Auto-Keyboard-Backlight\Source Code\Lenovo-Autokeyboard-Backlight\bin\Debug\Lenovo-Autokeyboard-Backlight.exe
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\GitHub\Lenovo-Auto-Keyboard-Backlight\Source Code\Lenovo-Autokeyboard-Backlight\bin\Debug\Lenovo-Autokeyboard-Backlight.pdb
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\GitHub\Lenovo-Auto-Keyboard-Backlight\Source Code\Lenovo-Autokeyboard-Backlight\obj\Debug\Lenovo-Autokeyboard-Backlight.csprojAssemblyReference.cache
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\GitHub\Lenovo-Auto-Keyboard-Backlight\Source Code\Lenovo-Autokeyboard-Backlight\obj\Debug\MainWindow.g.cs
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\GitHub\Lenovo-Auto-Keyboard-Backlight\Source Code\Lenovo-Autokeyboard-Backlight\obj\Debug\App.g.cs
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\GitHub\Lenovo-Auto-Keyboard-Backlight\Source Code\Lenovo-Autokeyboard-Backlight\obj\Debug\Lenovo-Autokeyboard-Backlight_MarkupCompile.cache
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\GitHub\Lenovo-Auto-Keyboard-Backlight\Source Code\Lenovo-Autokeyboard-Backlight\obj\Debug\Lenovo-Autokeyboard-Backlight_MarkupCompile.lref
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\GitHub\Lenovo-Auto-Keyboard-Backlight\Source Code\Lenovo-Autokeyboard-Backlight\obj\Debug\MainWindow.baml
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\GitHub\Lenovo-Auto-Keyboard-Backlight\Source Code\Lenovo-Autokeyboard-Backlight\obj\Debug\Lenovo-Autokeyboard-Backlight.g.resources
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\GitHub\Lenovo-Auto-Keyboard-Backlight\Source Code\Lenovo-Autokeyboard-Backlight\obj\Debug\Lenovo_Autokeyboard_Backlight.Properties.Resources.resources
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\GitHub\Lenovo-Auto-Keyboard-Backlight\Source Code\Lenovo-Autokeyboard-Backlight\obj\Debug\Lenovo-Autokeyboard-Backlight.csproj.GenerateResource.cache
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\GitHub\Lenovo-Auto-Keyboard-Backlight\Source Code\Lenovo-Autokeyboard-Backlight\obj\Debug\Lenovo-Autokeyboard-Backlight.csproj.CoreCompileInputs.cache
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\GitHub\Lenovo-Auto-Keyboard-Backlight\Source Code\Lenovo-Autokeyboard-Backlight\obj\Debug\Lenovo-Autokeyboard-Backlight.csproj.CopyComplete
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\GitHub\Lenovo-Auto-Keyboard-Backlight\Source Code\Lenovo-Autokeyboard-Backlight\obj\Debug\Lenovo-Autokeyboard-Backlight.exe
+C:\Users\Kristian\OneDrive\Programming\_ GitHub _\Lenovo-Autokeyboard-Backlight\GitHub\Lenovo-Auto-Keyboard-Backlight\Source Code\Lenovo-Autokeyboard-Backlight\obj\Debug\Lenovo-Autokeyboard-Backlight.pdb
